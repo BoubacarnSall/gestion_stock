@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(34, 207, 207);
+}
+.nav{
+    background-color: rgba(245, 257, 241, 0.906);
+    padding: 10px 0;
+}
+.nav-link {
+    columns: #ffffff;
+    margin-right: 15px ;
+    color: #024e0c;
+}
+.nav-lonk:hover {
+    color: #ffffff;
+}
+.nav-link.activ {
+    font-weight: bold;
+    color: #ffffff;
+}
+.custom-footer {
+    background-color: #024e0c;
+    color: white;
+    text-align: center;
+    /* padding: 1rem 0; */
+}
+.custom-table-header {
+    background-color: #048516;
+    color: rgba(255, 255, 255, 0.772);
+}
+
+/* body {
+    background-image: url('../ressources/m_info_et_buro.jpg');
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+} */
